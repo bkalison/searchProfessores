@@ -1,0 +1,75 @@
+{
+    "teacherData": [
+      {
+        "id": 1,
+        "subject": "Artes",
+        "cost": 1000,
+        "user_id": 1,
+        "name": "Gabriel da silva",
+        "avatar": "https://i.picsum.photos/id/1005/5760/3840.jpg?hmac=2acSJCOwz9q_dKtDZdSB-OIK1HUcwBeXco_RMMTUgfY",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 2,
+        "subject": "Frances",
+        "cost": 1000,
+        "user_id": 2,
+        "name": "Alison Gabriel Vieira Berkenbrock",
+        "avatar": "https://i.picsum.photos/id/1/5616/3744.jpg?hmac=kKHwwU8s46oNettHKwJ24qOlIAsWN9d2TtsXDoCWWsQ",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 3,
+        "subject": "Geografia",
+        "cost": 1000,
+        "user_id": 3,
+        "name": "Flavinho do Pneu",
+        "avatar": "https://i.picsum.photos/id/1001/5616/3744.jpg?hmac=38lkvX7tHXmlNbI0HzZbtkJ6_wpWyqvkX4Ty6vYElZE",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 4,
+        "subject": "Artes",
+        "cost": 1000,
+        "user_id": 4,
+        "name": "Xaolin",
+        "avatar": "https://i.picsum.photos/id/1005/5760/3840.jpg?hmac=2acSJCOwz9q_dKtDZdSB-OIK1HUcwBeXco_RMMTUgfY",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 5,
+        "subject": "Matématica",
+        "cost": 1000,
+        "user_id": 5,
+        "name": "Gilberto",
+        "avatar": "https://i.picsum.photos/id/1008/5616/3744.jpg?hmac=906z84ml4jhqPMsm4ObF9aZhCRC-t2S_Sy0RLvYWZwY",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 6,
+        "subject": "Historia",
+        "cost": 1000,
+        "user_id": 6,
+        "name": "Professor Carlos",
+        "avatar": "https://i.picsum.photos/id/1009/5000/7502.jpg?hmac=Uj6crVILzsKbyZreBjHuMiaq_-n30qoHjqP0i7r30r8",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      },
+      {
+        "id": 7,
+        "subject": "Portugues",
+        "cost": 1000,
+        "user_id": 7,
+        "name": "Alison Gabriel",
+        "avatar": "https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk",
+        "whatsapp": "5545998431091",
+        "bio": "Fulano da silva leciona Matemática na Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) – Rio de Janeiro – RJ, no Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio (PAPMEM) realizado duas vezes por ano no Instituto de Matemática Pura e Aplicada (IMPA), e em diversos programas de treinamento para Olimpíadas de Matemática, como por exemplo nos colégios ETAPA (São Paulo) e ELEVA (Rio de Janeiro)."
+      }
+      
+    ]
+}
